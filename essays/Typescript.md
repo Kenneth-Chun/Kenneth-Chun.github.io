@@ -35,4 +35,8 @@ WODs are a central component of this learning style and proved to be highly usef
 
 This hands-on approach is highly effective for learning software engineering, as it builds practical skills. However, it is important to note that this specific style of timed, repetitive practice might not fit well for other academic subjects.
 
+Review:
+
+
+
 
