@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/pivpn.png
+image: img/project/NS.png
 title: "PiVPN for Netflix Password Sharing"
 date: 2023
 published: true
