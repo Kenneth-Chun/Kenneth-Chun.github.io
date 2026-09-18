@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/project/andriodplay.png
 title: "Mobile Game Private Server Restoration"
 date: 2026
 published: true
@@ -19,8 +19,6 @@ summary: "Revived an abandoned open-source private server for a live-service mob
 
 <hr>
 
-<pre>
-
 This project involved reviving an abandoned open-source private server for a live-service mobile game. The original repository had stopped working because official client updates had deprecated the server's network protocols.
 
 While the server could still establish a base connection with the game client, the request and response cycles were broken. Because the client wasn't receiving the correct data, it would hang indefinitely, such as freezing on the loading screen. 
@@ -29,7 +27,4 @@ To fix this, I utilized publicly available Lua scripts to identify the data stru
 
 To get the game into a usable state, I implemented server-side handlers that sent back placeholder and mock data matching the known structures. This iterative process of capturing traffic, building new handlers, and mocking values was just enough to satisfy the client's parsing expectations, allowing it to bypass the login screen and achieve basic functionality.
 
-</pre>
-
-<hr>
 
