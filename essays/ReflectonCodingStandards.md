@@ -6,8 +6,11 @@ title: "Value of Coding Standards and Linting"
 date: 2026-09-24
 published: true
 labels:
-  - 
+  - Coding Standards
+  - Lint
 ---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/project/lint.png">
 
 Coding standards are often dismissed as simple formatting rules about indentation and brace placement. In reality, they are a foundational part of software engineering and a key way to ensure code quality. This essay explores the role of coding standards and looks at what happens when automated linting tools become part of a daily workflow.
 

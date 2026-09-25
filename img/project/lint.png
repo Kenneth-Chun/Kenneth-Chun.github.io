@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>Request has expired.</Message>
+  <RequestId>6AB6889E54A1410A28208E10</RequestId>
+  <HostId>qwen-webui-prod.oss-accelerate.aliyuncs.com</HostId>
+  <ExpiredTime>2026-09-25T14:41:03.000Z</ExpiredTime>
+  <ServerTime>2026-09-25T14:43:42.000Z</ServerTime>
+  <x-oss-date>20260925T143603Z</x-oss-date>
+  <x-oss-expires>300</x-oss-expires>
+  <EC>0002-00000236</EC>
+  <RecommendDoc>https://api.alibabacloud.com/troubleshoot?q=0002-00000236</RecommendDoc>
+</Error>
