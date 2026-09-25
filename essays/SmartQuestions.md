@@ -13,6 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/project/smartquestion.png">
 
+
 Why Asking "Smart" Questions Matters in Software Engineering
 
 Asking a question is a collaborative process. Communication is one of the most critical, yet frequently underdeveloped, skills in software engineering. Code at scale is built, maintained, and debugged within communities. Eric S. Raymond's seminal essay, "How To Ask Questions The Smart Way," outlines a set of principles for interacting with the open source community. These principles follow basic etiquette, respecting the time and effort of volunteer experts to receive faster and more favorable responses.

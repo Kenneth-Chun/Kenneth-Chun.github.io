@@ -12,7 +12,7 @@ labels:
 summary: "A self-hosted, local cloud storage solution built on a Raspberry Pi using existing open-source software and a secure virtual private network (VPN)."
 ---
 <div class="text-center p-4">
-  <img width="200px" height='200px' src="../img/project/CS.png" class="img-thumbnail" >
+  <img width="200px" src="../img/project/CS.png" class="img-thumbnail" >
 </div>
 
 <hr>
