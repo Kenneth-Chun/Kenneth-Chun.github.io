@@ -29,7 +29,7 @@ Bootstrap 5 provides several technical features that make it a practical choice 
 
 Beyond structural layouts, Bootstrap 5 simplifies micro-styling through its utility classes. Instead of writing custom CSS for minor adjustments like margins, padding, or text alignment, developers apply pre-defined classes such as mt-3 or text-center. This keeps the HTML self-contained and eliminates the need to maintain separate stylesheet rules for simple visual tweaks.
 
-Experience:
+EXPERIENCE:
 
 ICS314 at UH Manoa covered the basic principles of HTML and CSS at a fast pace. Because of this, the transition to Bootstrap didn't cause any frustration, since there wasn't enough time spent writing raw CSS to feel restricted by a pre-built system. Working within a framework does mean our design choices are limited to its predefined layout structures. However, the advantage of the framework is that it allows us to write code much faster. The resulting page are of acceptable quality and save a significant amount of time which is improves workflow.
 
